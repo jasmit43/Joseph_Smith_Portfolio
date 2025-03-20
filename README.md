@@ -27,7 +27,7 @@ This project provided key details for the routing of claims. This was needed to 
 * The High Level Overview gives summary information for each State and their claim routing.
 * There were pages that provided more in-depth information for the claims.
 
-## High Level Overview ![](Images/High_level_Overview.png)
+## High Level Overview ![](Images/High_Level_Overview.png)
 
 # Project 4: Power App
 
