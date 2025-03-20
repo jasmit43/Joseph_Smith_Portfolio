@@ -3,6 +3,7 @@
 This is a project that was created to provide metric results for each group and the group members from multiple datasets.
 
 * Data was taken from Teradata database, Snowflake database, SharePoint, and source systems.
+* Report built in Power BI.
 * The dashboard was structured for an overview of their metrics.
 * If more in-depth views of each metric were needed, there were specific metric pages that provided that information.
 * Each page provided slicers for the end user to filter the data to their specific needs.
@@ -14,6 +15,7 @@ This is a project that was created to provide metric results for each group and 
 This project provided key details for 3 areas of concern. The goal was to provide details in each area to find causes and resolutions for improvement.
 
 * Data was taken from Teradata database.
+* Report built in Power BI.
 * The dashboard gave an overall overview of each area of concern.
 * There were pages for each area that provided greater details for research purposes.
 
@@ -24,10 +26,11 @@ This project provided key details for 3 areas of concern. The goal was to provid
 This project provided key details for the routing of claims. This was needed to assist improving claim work processes.
 
 * Data was taken from Teradata database.
+* Report built in Power BI.
 * The High Level Overview gives summary information for each State and their claim routing.
 * There were pages that provided more in-depth information for the claims.
 
-## High Level Overview ![](Images/High_Level_Overview.png)
+## High Level Overview Dashboard ![](Images/High_Level_Overview.png)
 
 # Project 4: Power App
 
