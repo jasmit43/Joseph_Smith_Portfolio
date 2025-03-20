@@ -1,2 +1,7 @@
-# Joseph_Smith_Portfolio
-Analytics Portfolio
+# Project 1:
+
+# Project 2:
+
+# Project 3:
+
+# Project 4:
