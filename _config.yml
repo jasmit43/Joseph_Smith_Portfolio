@@ -2,5 +2,5 @@ title: Joseph Smith
 #logo: Images/(Headshot picture).png
 #description: text below image
 show_downloads: false
-view_project: false
+show_view_project: false
 theme: jekyll-theme-minimal
