@@ -2,7 +2,7 @@
 
 ---
 
-# Project 1: KPI Dashboard
+## Project 1: KPI Dashboard
 
 This is a project that was created to provide metric results for each group and the group members from multiple datasets.
 
@@ -12,11 +12,11 @@ This is a project that was created to provide metric results for each group and 
 - If more in-depth views of each metric were needed, there were specific metric pages that provided that information.
 - Each page provided slicers for the end user to filter the data to their specific needs.
 
-## KPI Dashboard ![](Images/KPI_Dashboard.png)
+### KPI Dashboard ![](Images/KPI_Dashboard.png)
 
 ---
 
-# Project 2: Focus Initiative
+## Project 2: Focus Initiative
 
 This project provided key details for 3 areas of concern. The goal was to provide details in each area to find causes and resolutions for improvement.
 
@@ -25,11 +25,11 @@ This project provided key details for 3 areas of concern. The goal was to provid
 - The dashboard gave an overall overview of each area of concern.
 - There were pages for each area that provided greater details for research purposes.
 
-## Focus Initiative Dashboard ![](Images/Focus_Initiative.png)
+### Focus Initiative Dashboard ![](Images/Focus_Initiative.png)
 
 ---
 
-# Project 3: High Level Overview
+## Project 3: High Level Overview
 
 This project provided key details for the routing of claims. This was needed to assist improving claim work processes.
 
@@ -38,15 +38,15 @@ This project provided key details for the routing of claims. This was needed to 
 - The High Level Overview gives summary information for each State and their claim routing.
 - There were pages that provided more in-depth information for the claims.
 
-## High Level Overview Dashboard ![](Images/High_Level_Overview.png)
+### High Level Overview Dashboard ![](Images/High_Level_Overview.png)
 
 ---
 
-# Project 4: Power App
+## Project 4: Power App
 
 This is an example of a Power App I created to assist in managing the group employee roster needed for the reports I provided.
 
 - Data was stored in SharePoint.
 - Options in the app to Add New Employee or View/Edit existing employee profiles.
 
-## Power App Roster ![](Images/Roster.png)
+### Power App Roster ![](Images/Roster.png)
