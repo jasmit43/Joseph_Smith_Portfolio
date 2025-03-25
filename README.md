@@ -1,3 +1,7 @@
+#### Technical Skills: SQL, DAX, Teradata, Snowflake, Power BI, Poawer Apps, Power Automate, SharePoint
+
+---
+
 # Project 1: KPI Dashboard
 
 This is a project that was created to provide metric results for each group and the group members from multiple datasets.
